@@ -1,16 +1,41 @@
-## Hi there 👋
+<h2 align="center">Thiago Soares</h2>
 
-<!--
-**Thiago1428/Thiago1428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 Desenvolvedor
 
-Here are some ideas to get you started:
+Me chamo Thiago Soares e sou um desenvolvedor especializado na criação de **aplicações web e mobile**, atuando em todo o ciclo de desenvolvimento, desde a arquitetura até a implementação, testes e otimização. Tenho experiência sólida com **bancos de dados relacionais e não relacionais**, incluindo **SQLite, Supabase e Firebase**, trabalhando na modelagem de esquemas, integração entre serviços, implementação de regras de acesso e otimização de consultas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Domino **PHP, TypeScript, JavaScript, HTML, CSS e TailwindCSS**, além de tecnologias do ecossistema JavaScript como **React**, **React Native** e **NativeWind**, aplicando princípios de componentização, modularidade, escalabilidade, clean code e manutenção de longo prazo.
+
+No back-end, atuo com foco em design estrutural, organização de camadas, definição de contratos, integração com APIs e boas práticas de engenharia. Com **Supabase**, trabalho tanto com autenticação quanto com Realtime, triggers, policies (RLS) e otimização de rotas de dados.
+
+Também possuo experiência em **Python**, criando rotinas de automação, extração de dados e **web scraping com Selenium**, desenvolvendo pipelines robustos, configuráveis e resistentes a mudanças de layout e bloqueios.
+
+Tenho domínio de **Arquitetura de Software, Padrões de Projeto e Boas Práticas de Programação**, garantindo soluções legíveis, extensíveis e adequadas a cenários de produção.
+
+---
+
+## ⚙️ Tecnologias
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
+</div>
+
+---
+
+## 📊 Estatística do GitHub
+
+<div align="center">
+  <!--<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thiago1428&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />-->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago1428&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
+</div>
