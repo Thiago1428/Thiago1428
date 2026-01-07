@@ -32,10 +32,3 @@ Tenho domínio de **Arquitetura de Software, Padrões de Projeto e Boas Prática
 </div>
 
 ---
-
-## 📊 Estatística do GitHub
-
-<div align="center">
-  <!--<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thiago1428&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />-->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago1428&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
-</div>
