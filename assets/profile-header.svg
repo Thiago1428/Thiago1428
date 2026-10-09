@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Thiago Soares Rocha — Desenvolvedor</title>
+  <desc id="desc">Banner animado em azul escuro com detalhes ciano e violeta, nome e áreas de atuação.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10152b"/>
+      <stop offset="55%" stop-color="#111c36"/>
+      <stop offset="100%" stop-color="#0c1227"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity=".33"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".09"/>
+    </pattern>
+    <clipPath id="rounded"><rect width="1200" height="300" rx="22"/></clipPath>
+    <style>
+      .orb {animation: orbit 14s linear infinite; transform-origin: 1000px 150px;}
+      .orb-b {animation: orbit 21s linear infinite reverse; transform-origin: 1000px 150px;}
+      .pulse {animation: pulse 3s ease-in-out infinite;}
+      .trace {stroke-dasharray: 14 26; animation: flow 9s linear infinite;}
+      @keyframes orbit {to {transform: rotate(360deg);}}
+      @keyframes pulse {0%,100% {opacity: .45;} 50% {opacity: 1;}}
+      @keyframes flow {to {stroke-dashoffset: -240;}}
+      @media (prefers-reduced-motion: reduce) {
+        .orb,.orb-b,.pulse,.trace {animation: none;}
+      }
+    </style>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="300" fill="url(#background)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <ellipse cx="1000" cy="150" rx="315" ry="260" fill="url(#halo)"/>
+    <path d="M0 270H1200" stroke="url(#accent)" stroke-opacity=".5" stroke-width="2"/>
+    <g opacity=".7">
+      <circle cx="1000" cy="150" r="84" fill="none" stroke="#818cf8" stroke-opacity=".5"/>
+      <circle cx="1000" cy="150" r="126" fill="none" stroke="#67e8f9" stroke-opacity=".4" stroke-dasharray="5 12"/>
+      <circle cx="1000" cy="150" r="165" fill="none" stroke="#a78bfa" stroke-opacity=".35"/>
+      <g class="orb"><circle cx="1000" cy="66" r="7" fill="#67e8f9"/></g>
+      <g class="orb-b"><circle cx="1000" cy="-15" r="5" fill="#a78bfa"/></g>
+      <circle cx="1000" cy="150" r="45" fill="#111c36" stroke="#67e8f9" stroke-opacity=".7"/>
+      <path d="M984 135L969 150L984 165M1016 135L1031 150L1016 165M1008 131L992 169" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <path class="trace" d="M730 38H1120L1180 98V210" fill="none" stroke="#67e8f9" stroke-opacity=".4" stroke-width="2"/>
+    <rect x="64" y="46" width="204" height="32" rx="16" fill="#25324a" stroke="#67e8f9" stroke-opacity=".4"/>
+    <circle class="pulse" cx="82" cy="62" r="5" fill="#67e8f9"/>
+    <text x="98" y="67" font-size="12" font-weight="700" letter-spacing="1.8" fill="#baf3ff" font-family="Segoe UI,Arial,sans-serif">DEVELOPER PROFILE</text>
+    <text x="64" y="153" font-family="Segoe UI,Arial,sans-serif" font-size="47" font-weight="800" letter-spacing="-1.7" fill="#f1f5f9">THIAGO SOARES</text>
+    <text x="64" y="203" font-family="Segoe UI,Arial,sans-serif" font-size="47" font-weight="800" letter-spacing="-1.7" fill="url(#accent)">ROCHA</text>
+    <text x="66" y="247" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing=".3" fill="#cbd5e1">Web  /  Mobile  /  Back-end  /  Automação  /  IA</text>
+  </g>
+</svg>
