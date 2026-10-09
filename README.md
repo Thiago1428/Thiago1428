@@ -9,30 +9,53 @@ Tenho interesse especial em **arquitetura de software, APIs, ferramentas para de
 
 ## 🧰 Tecnologias e ferramentas
 
-**Front-end e interfaces**
+**Front-end, interfaces e animações**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,threejs&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vite e Three.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,threejs,materialui&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vite, Three.js e Material UI" />
 </p>
 
-**Back-end, automação e integrações**
+`shadcn/ui` · `Radix UI` · `React Router` · `GSAP` · `Motion` · `Spline` · `Recharts`
+
+**Back-end, APIs e arquitetura**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,selenium&amp;theme=dark" alt="Node.js, Express, PHP, Python e Selenium" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python&amp;theme=dark" alt="Node.js, Express, PHP e Python" />
 </p>
 
-**Dados, autenticação e serviços**
+`Hono` · `REST APIs` · `Model Context Protocol (MCP)` · `Zod`
+
+**Mobile e aplicações desktop**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=electron,tauri,rust,react&amp;theme=dark" alt="Electron, Tauri, Rust e React" />
+</p>
+
+`React Native` · `NativeWind` · `Capacitor` · `Ionic` · `Monaco Editor` · `xterm.js`
+
+**Bancos de dados, autenticação e serviços**
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,firebase&amp;theme=dark" alt="PostgreSQL, SQLite, Supabase e Firebase" />
 </p>
 
-**Ferramentas e design**
+`SQL` · `Supabase Auth / Realtime / RLS` · `Firebase Authentication`
+
+**Automação e inteligência artificial**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,vscode,linux,&amp;theme=dark" alt="Git, GitHub, GitHub Actions, Figma, VS Code, Linux" />
+  <img src="https://skillicons.dev/icons?i=selenium,playwright&amp;theme=dark" alt="Selenium e Playwright" />
 </p>
 
+`Beautiful Soup` · `Web scraping` · `Whisper` · `Google Gemini API` · `Groq API`
+
+**Ferramentas, testes e desenvolvimento**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,vscode,linux,vitest,vercel,godot&amp;theme=dark" alt="Git, GitHub, GitHub Actions, Figma, VS Code, Linux, Vitest, Vercel e Godot" />
+</p>
+
+`npm` · `pnpm`
 
 ## 🐍 Minhas contribuições
 
