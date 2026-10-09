@@ -1,36 +1,49 @@
-<h2 align="center">Thiago Soares Rocha</h2>
+## 👋 Sou **Thiago Soares Rocha**
 
-### 👨🏻‍💻 Desenvolvedor
+Desenvolvedor de aplicações **web e mobile**. Gosto de unir interfaces bem construídas a soluções de back-end, bancos de dados e automações que resolvem problemas reais.
 
-Me chamo Thiago e sou um desenvolvedor especializado na criação de **aplicações web e mobile**, atuando em todo o ciclo de desenvolvimento, desde a arquitetura até a implementação, testes e otimização. Tenho experiência sólida com **bancos de dados relacionais e não relacionais**, incluindo **SQLite, Supabase e Firebase**, trabalhando na modelagem de esquemas, integração entre serviços, implementação de regras de acesso e otimização de consultas.
+Trabalho principalmente com **TypeScript, JavaScript, React, Next.js e PHP**, além de **Node.js/Express**, **React Native** e serviços como **Supabase** e **Firebase**. Em Python, desenvolvo scripts, integrações e rotinas de automação com **Selenium**.
 
-Domino **PHP, TypeScript, JavaScript, HTML, CSS e TailwindCSS**, além de tecnologias do ecossistema JavaScript como **React**, **React Native** e **NativeWind**, aplicando princípios de componentização, modularidade, escalabilidade, clean code e manutenção de longo prazo.
+Tenho interesse especial em **arquitetura de software, APIs, ferramentas para desenvolvedores e inteligência artificial**. Valorizo código organizado, componentes reutilizáveis, segurança e uma boa experiência de uso.
 
-No back-end, atuo com foco em design estrutural, organização de camadas, definição de contratos, integração com APIs e boas práticas de engenharia. Com **Supabase**, trabalho tanto com autenticação quanto com Realtime, triggers, policies (RLS) e otimização de rotas de dados.
 
-Também possuo experiência em **Python**, criando rotinas de automação, extração de dados e **web scraping com Selenium**, desenvolvendo pipelines robustos, configuráveis e resistentes a mudanças de layout e bloqueios.
+## 🧰 Tecnologias e ferramentas
 
-Tenho domínio de **Arquitetura de Software, Padrões de Projeto e Boas Práticas de Programação**, garantindo soluções legíveis, extensíveis e adequadas a cenários de produção.
+**Front-end e interfaces**
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,threejs&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vite e Three.js" />
+</p>
 
-## ⚙️ Tecnologias
+**Back-end, automação e integrações**
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TS" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JS" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" alt="Supabase"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" alt="Selenium"/></td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,selenium&amp;theme=dark" alt="Node.js, Express, PHP, Python e Selenium" />
+</p>
 
----
+**Dados, autenticação e serviços**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,firebase&amp;theme=dark" alt="PostgreSQL, SQLite, Supabase e Firebase" />
+</p>
+
+**Ferramentas e design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,vscode,linux,&amp;theme=dark" alt="Git, GitHub, GitHub Actions, Figma, VS Code, Linux" />
+</p>
+
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thiago1428/Thiago1428/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thiago1428/Thiago1428/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação de uma cobrinha percorrendo as contribuições de Thiago1428" src="https://raw.githubusercontent.com/Thiago1428/Thiago1428/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+
+</div>
+
+<sub>Os arquivos animados são publicados na branch <code>output</code> quando o workflow <a href="https://github.com/Thiago1428/Thiago1428/actions/workflows/snake.yml">Snake contributions</a> é executado pela primeira vez.</sub>
