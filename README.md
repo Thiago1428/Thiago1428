@@ -12,50 +12,40 @@ Tenho interesse especial em **arquitetura de software, APIs, ferramentas para de
 **Front-end, interfaces e animações**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,threejs,materialui&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vite, Three.js e Material UI" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,vite,threejs,materialui,shadcn,radix,reactrouter,gsap,framer&amp;theme=dark&amp;perline=10" alt="html, css, javascript, typescript, react, nextjs, tailwindcss, vite, threejs, materialui, shadcn, radix, reactrouter, gsap, framer" />
 </p>
-
-`shadcn/ui` · `Radix UI` · `React Router` · `GSAP` · `Motion` · `Spline` · `Recharts`
 
 **Back-end, APIs e arquitetura**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python&amp;theme=dark" alt="Node.js, Express, PHP e Python" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,php,python,hono,mcp&amp;theme=dark&amp;perline=6" alt="nodejs, expressjs, php, python, hono, mcp" />
+  <img src="https://cdn.simpleicons.org/zod/3068B7" alt="Zod" title="Zod" width="43" height="43" />
 </p>
-
-`Hono` · `REST APIs` · `Model Context Protocol (MCP)` · `Zod`
 
 **Mobile e aplicações desktop**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=electron,tauri,rust,react&amp;theme=dark" alt="Electron, Tauri, Rust e React" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,electron,tauri,rust,capacitor&amp;theme=dark&amp;perline=5" alt="reactnative, electron, tauri, rust, capacitor" />
+  <img src="https://cdn.simpleicons.org/ionic/3880FF" alt="Ionic" title="Ionic" width="43" height="43" />
 </p>
-
-`React Native` · `NativeWind` · `Capacitor` · `Ionic` · `Monaco Editor` · `xterm.js`
 
 **Bancos de dados, autenticação e serviços**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,firebase&amp;theme=dark" alt="PostgreSQL, SQLite, Supabase e Firebase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,supabase,firebase&amp;theme=dark&amp;perline=4" alt="postgresql, sqlite, supabase, firebase" />
 </p>
-
-`SQL` · `Supabase Auth / Realtime / RLS` · `Firebase Authentication`
 
 **Automação e inteligência artificial**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=selenium,playwright&amp;theme=dark" alt="Selenium e Playwright" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,playwright,gemini,groq&amp;theme=dark&amp;perline=4" alt="selenium, playwright, gemini, groq" />
 </p>
-
-`Beautiful Soup` · `Web scraping` · `Whisper` · `Google Gemini API` · `Groq API`
 
 **Ferramentas, testes e desenvolvimento**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,vscode,linux,vitest,vercel,godot&amp;theme=dark" alt="Git, GitHub, GitHub Actions, Figma, VS Code, Linux, Vitest, Vercel e Godot" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,figma,zed,linux,vitest,vercel,godot,npm,pnpm&amp;theme=dark&amp;perline=10" alt="git, github, githubactions, figma, zed, linux, vitest, vercel, godot, npm, pnpm" />
 </p>
-
-`npm` · `pnpm`
 
 ## 🐍 Minhas contribuições
 
