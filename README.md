@@ -4,7 +4,7 @@ Desenvolvedor de aplicações **web e mobile**. Gosto de unir interfaces bem con
 
 Trabalho principalmente com **TypeScript, JavaScript, React, Next.js e PHP**, além de **Node.js/Express**, **React Native** e serviços como **Supabase** e **Firebase**. Em Python, desenvolvo scripts, integrações e rotinas de automação com **Selenium**.
 
-Tenho interesse especial em **arquitetura de software, APIs, ferramentas para desenvolvedores e inteligência artificial**. Valorizo código organizado, componentes reutilizáveis, segurança e uma boa experiência de uso.
+Tenho interesse especial em **arquitetura de software, APIs e ferramentas para desenvolvedores**. Valorizo código organizado, componentes reutilizáveis, segurança e uma boa experiência de uso.
 
 
 ## 🧰 Tecnologias e ferramentas
@@ -18,7 +18,7 @@ Tenho interesse especial em **arquitetura de software, APIs, ferramentas para de
 **Back-end, APIs e arquitetura**
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,php,python,hono,mcp&amp;theme=dark&amp;perline=6" alt="nodejs, expressjs, php, python, hono, mcp" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,php,python,hono&amp;theme=dark&amp;perline=5" alt="nodejs, expressjs, php, python, hono" />
   <img src="https://cdn.simpleicons.org/zod/3068B7" alt="Zod" title="Zod" width="43" height="43" />
 </p>
 
@@ -35,16 +35,16 @@ Tenho interesse especial em **arquitetura de software, APIs, ferramentas para de
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,supabase,firebase&amp;theme=dark&amp;perline=4" alt="postgresql, sqlite, supabase, firebase" />
 </p>
 
-**Automação e inteligência artificial**
+**Automação e testes de navegação**
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,playwright,gemini,groq&amp;theme=dark&amp;perline=4" alt="selenium, playwright, gemini, groq" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,playwright&amp;theme=dark&amp;perline=2" alt="selenium, playwright" />
 </p>
 
 **Ferramentas, testes e desenvolvimento**
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,figma,zed,linux,vitest,vercel,godot,npm,pnpm&amp;theme=dark&amp;perline=10" alt="git, github, githubactions, figma, zed, linux, vitest, vercel, godot, npm, pnpm" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,figma,zed,linux,vitest,vercel,npm,pnpm&amp;theme=dark&amp;perline=10" alt="git, github, githubactions, figma, zed, linux, vitest, vercel, npm, pnpm" />
 </p>
 
 ## 🐍 Minhas contribuições
