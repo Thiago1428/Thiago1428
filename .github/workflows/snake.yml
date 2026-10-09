@@ -35,7 +35,7 @@ jobs:
 
           svg_path = Path("dist/github-contribution-grid-snake-dark.svg")
           svg = svg_path.read_text(encoding="utf-8")
-          svg, count = re.subn(r'<rect class="u u\\d+"[^>]*/>', "", svg)
+          svg, count = re.subn(r'<rect class="u u\d+"[^>]*/>', "", svg)
           if count == 0:
               raise RuntimeError("Snake progress bar not found")
           before = 'viewBox="-16 -32 880 192" width="880" height="192"'
