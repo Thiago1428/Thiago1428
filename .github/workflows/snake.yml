@@ -25,8 +25,25 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Remove progress bar from SVG
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          svg_path = Path("dist/github-contribution-grid-snake-dark.svg")
+          svg = svg_path.read_text(encoding="utf-8")
+          svg, count = re.subn(r'<rect class="u u\\d+"[^>]*/>', "", svg)
+          if count == 0:
+              raise RuntimeError("Snake progress bar not found")
+          before = 'viewBox="-16 -32 880 192" width="880" height="192"'
+          after = 'viewBox="-16 -16 880 146" width="880" height="146"'
+          if before not in svg:
+              raise RuntimeError("Unexpected snake SVG dimensions")
+          svg_path.write_text(svg.replace(before, after, 1), encoding="utf-8")
+          PY
 
       - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
